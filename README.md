@@ -22,6 +22,7 @@ W-net architecture. It is composed of a residual U-net on k-space domain connect
 Sample reconstruction of our W-net and four other methods published in the literature with special highlight on the cerebellum region. Speed-up factor of 5x.
 
 ![w-net reconstruction](./Figs/hybrid_5x.gif?raw=True)
+
 W-net reconstruction gif. From left to right: fully sampled reconstruction, W-net reconstruction from a k-space undersample by 80%, and absolute error differences.
 
 ## Contact
