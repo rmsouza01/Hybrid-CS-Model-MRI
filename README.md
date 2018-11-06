@@ -1,5 +1,6 @@
 # Hybrid-CS-Model-MRI
 
+
 Reconstructing magnetic resonance (MR) images from undersampled k-space measurements can potentially decrease MR examination times. This repository contains thesource code for a hybrid k-space/image domain model proposed by our group. Our model is called W-net. If you use this code in your experiments, we ask you to kindly cite our paper:
 
 Souza, Roberto and Frayne, Richard. "A Hybrid Frequency-domain/Image-domain Deep Network for Magnetic Resonance Image Reconstruction", arXiv preprint, 20 October 2018 (https://arxiv.org/abs/1810.12473). 
@@ -23,3 +24,8 @@ Sample reconstruction of our W-net and four other methods published in the liter
 ![w-net reconstruction](./Figs/hybrid_5x.gif?raw=True)
 W-net reconstruction gif. From left to right: fully sampled reconstruction, W-net reconstruction from a k-space undersample by 80%, and absolute error differences.
 
+## Contact
+Any questions? roberto.medeirosdeso@ucalgary.ca
+
+MIT License
+Copyright (c) 2017 Roberto M Souza
