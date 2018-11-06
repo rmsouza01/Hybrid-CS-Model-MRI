@@ -1,3 +1,3 @@
 # Hybrid-CS-Model-MRI
 
-![screenshot](../Figs/w-net.png?raw=True)
+![w-net architecture](./Figs/w-net.png?raw=True)
