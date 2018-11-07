@@ -1,0 +1,8 @@
+*.pyc
+*~
+*.tmp
+*.orig
+*.remote
+*.base
+*.#*
+Recs/*
