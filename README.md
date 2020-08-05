@@ -7,7 +7,7 @@ Souza, Roberto and Frayne, Richard. "A Hybrid Frequency-domain/Image-domain Deep
 
 ## Dataset
 
-We expect to soon be able to make the MR raw-data publicly available as part of the Calgary-Campinas dataset (https://sites.google.com/view/calgary-campinas-dataset/home) for benhcmarking purposes.
+The MR raw-data is publicly available as part of the Calgary-Campinas dataset (https://sites.google.com/view/calgary-campinas-dataset/home) for benhcmarking purposes.
 
 
 ## Code
